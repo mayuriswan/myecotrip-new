@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+.DS_Store
+/storage/logs
+/storage/myecotripLogs/
+/storage/exports/
+/public/assets/img/safari
+/public/assets/img
+.idea/

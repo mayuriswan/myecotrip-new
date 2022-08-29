@@ -1,0 +1,352 @@
+@media only screen and (max-width: 980px) {
+    .ourSupports{
+        width: 62% !important;
+    }
+
+    .ourSupports2{
+        width: 97% !important;
+    }
+
+    .ourSupports3{
+        margin-left: -2% !important;
+        width: 100% !important;
+    }
+}
+
+.signUpAlert{
+    text-align: center;
+    padding: 4px !important;
+    margin-bottom: 11px !important;
+}
+
+.navbarLogo{
+    max-height: 40px;
+    /*max-width: 42%;*/
+}
+
+.indexSlider{
+    height: 500px;
+}
+
+.navBackground{
+    background-color: #f3f7f9;
+}
+
+.ourSupports{
+    width: 77%;
+    /* float: right; */
+}
+
+.ourSupports2{
+    width: 35%;
+}
+
+.ourSupports3{
+    width: 84%;
+    margin-top: 12px;
+    margin-left: -5%;
+}
+
+.categoryImages{
+    max-height: 172px;
+    min-height: 172px;
+}
+
+.categoryImagesIcon{
+    max-width: 31px;
+}
+
+/*Ecotrails subcategories*/
+.pagetTitle{
+    font-size: 34px;
+    margin: 14px 0;
+}
+
+.pageDescription{
+    font-size: 16px;
+    margin: 0 0 30px;
+    line-height: 27px;
+}
+
+.sidebarHeading{
+    color: #ff4e20;
+}
+
+.sideBarDescription{
+    font-size: 15px;
+    margin: 0 0 30px;
+    line-height: 27px;
+}
+
+.trailsTypes{
+    width: 86%;
+}
+
+.trekkingIcon{
+    width: 17px;
+}
+
+.hardIcon{
+    width: 40px;
+}
+
+.clearFilter{
+    float: right;
+    font-size: 16px;
+    margin-top: 19px;
+}
+
+.filterCheckbox{
+    margin-right: 6px !important;
+}
+
+.signinForm{
+    margin-left: 2px !important;
+}
+
+.homeAlert{
+    text-align: center;
+    padding: 10px !important;
+    margin-bottom: 4px !important;
+}
+
+.showPointer{
+    cursor: pointer !important;
+}
+
+error404 {
+    min-height: 650px;
+    background: url("https://www.justinmind.com/static/img/error404-loop.png") 50% 0 no-repeat;
+    margin-top: 75px
+}
+.error404 p {
+    margin: 0;
+    font-family: "Roboto", "Code-Pro", "Helvetica Neue", Helvetica, Arial, Sans-serif;
+    font-size: 270px;
+    line-height: 0.9em;
+    font-weight: 100;
+    color: #21c0c0
+}
+.error404 p.maintenance {
+    font-size: 50px
+}
+.error404>.container {
+    text-align: center
+}
+.error404>.container>ul {
+    display: inline-block;
+    margin-top: 35px;
+    list-style-type: none;
+    font-size: 0;
+    padding-left: 0
+}
+.error404>.container>ul>li {
+    display: inline-block;
+    text-align: left;
+    color: #21c0c0;
+    font-size: 15px
+}
+.error404>.container>ul>li:before {
+    display: inline-block;
+    content: '-';
+    margin: 0 5px
+}
+.error404>.container>ul>li:first-child:before {
+    content: none
+}
+@media only screen and (max-width: 1199px) {
+    .error404>.container {
+        background-position: 120% 0
+    }
+}
+@media only screen and (max-width: 767px) {
+    .error404>.container {
+        background-position: 105% 110px
+    }
+    .error404>.container p {
+        font-size: 170px
+    }
+
+    .landscapeLogo{
+        max-height: 160px;
+    }
+}
+@media only screen and (max-width: 479px) {
+    .error404>.container p {
+        margin-top: 60px
+    }
+    .error404>.container>ul>li {
+        display: block;
+        text-align: center
+    }
+    .error404>.container>ul>li:before {
+        content: none
+    }
+}
+.error404.prototype-not-found p {
+    margin-top: 200px;
+    font-size: 50px;
+    color: #212121
+}
+
+.carousel {
+  width: 100%;  /*test width*/
+  height: 400px; /*what ever height */
+}
+
+.middle {
+  position: relative;
+  height: 500px; /*what ever height */
+}
+
+.middle img {
+  max-width: 100%;
+  max-height: 100%; /*what ever height */
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.verification{
+    padding-left: 14px;
+}
+
+.user-profile-sidebar .user-profile-nav>li>a:hover {
+    color: #ed8323 !important;
+}
+
+.check{
+    float: right;
+    color: green;
+    cursor: pointer;
+}
+
+.Uncheck{
+    float: right;
+    color: red;
+    cursor: pointer;
+}
+
+/*Banner home*/
+.btn-min-block {
+    min-width: 170px;
+    line-height: 26px;
+}
+
+.btn-theme {
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #fff;
+    margin-right: 15px;
+}
+
+.btn-theme:hover {
+    color: #000;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.bannerTitle {
+    color: #000006;
+    font-weight: 400;
+}
+
+.bannerButton {
+    border-radius : 10px;
+    color: #fff;
+    background-color: #d07171;
+    border-color: #1e2920;
+}
+
+.landscapeLogo {
+    max-height: 174px;
+}
+
+.trailUpcoming{
+    padding: 5px 5px 0px 13px;
+    margin: 6px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+    border-left-color: #ce4844;
+}
+
+.qrCodeImage {
+    margin-top: -30px;
+    width: 107px;
+}
+
+.numberTextbox{
+    border: none !important;
+    border-bottom: 1px solid !important;
+    text-align: center;
+}
+
+.birdTableDisplay{
+    border-bottom: 1px dotted;
+    margin-bottom: 11px;
+}
+
+
+/*Bird sanctuary*/
+.priceMasterLabel{
+    font-size: 17px;
+    padding-top: 18px;
+}
+
+.checkBokkingHere{
+    font-size: 18px;
+    color: #e44d28;
+}
+
+.categoriesName{
+    margin: 0px !important;
+    font-size: 22px;
+}
+
+.categoriesImages{
+    min-height: 236px;
+}
+
+.roomListImg{
+    max-width: 360px;
+    max-height: 227.28px;
+    min-height: 227.28px;
+}
+
+.kfdLogo{
+    max-height: 49px;
+    max-width: 50px;
+}
+
+.newJou{
+    min-height: 196.88px;
+    max-height: 196.88px;
+}
+
+@media only screen and (max-device-width: 900px){
+/*Mobile View*/
+    .error404>.container {
+        background-position: 105% 110px
+    }
+    .error404>.container p {
+        font-size: 170px
+    }
+
+    .landscapeLogo{
+        max-height: 720px;
+    }
+}
+
+
+.training-details-img{
+    min-height: 271px;
+}
+
+.galleryImage{
+    max-height: 239px;
+    min-height: 239px;
+}

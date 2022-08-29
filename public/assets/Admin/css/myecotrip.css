@@ -1,0 +1,61 @@
+@media only screen and (max-width: 980px) {
+    .ourSupports{
+        width: 19% !important;
+    }
+
+    .ourSupports2{
+        width: 33% !important;
+    }
+
+    .ourSupports3{
+        margin-left: -2% !important;
+        width: 31% !important;
+    }
+}
+
+.navbarLogo{
+    max-height: 40px;
+    max-width: 78%;
+    margin-top: 4px;
+}
+
+.addNewButton{
+    float: right;
+}
+
+.alert{
+    padding: 6px 0 8px 15px !important;
+}
+
+.parkLogo{
+    width: 50%;
+    margin-top: 27px;
+}
+
+
+.tblFont{
+    font-size: 15px !important;
+}
+
+.tblBorder td{
+    border-top : none !important;
+}
+
+.bookingHr{
+    border-top: 1px solid #968686!important;
+}
+
+/*.booking-item{
+    cursor: pointer;
+    display: block;
+    padding: 17px;
+    border: 1px solid #e6e6e6;
+    color: #737373;
+    -ms-transition: .2s;
+    transition: .2s;
+}*/
+
+
+.required{
+    color: red;
+}

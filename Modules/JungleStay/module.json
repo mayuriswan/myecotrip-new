@@ -1,0 +1,14 @@
+{
+    "name": "JungleStay",
+    "alias": "junglestay",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\JungleStay\\Providers\\JungleStayServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

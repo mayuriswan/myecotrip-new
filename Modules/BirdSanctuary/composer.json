@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/birdsanctuary",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\BirdSanctuary\\Providers\\BirdSanctuaryServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\BirdSanctuary\\": ""
+        }
+    }
+}

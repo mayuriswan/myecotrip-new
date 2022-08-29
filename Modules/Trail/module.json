@@ -1,0 +1,14 @@
+{
+    "name": "Trail",
+    "alias": "trail",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Trail\\Providers\\TrailServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
